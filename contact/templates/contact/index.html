@@ -1,0 +1,12 @@
+{% extends "global/base.html" %}
+{% block content %}
+    {% if page_obj%}
+        {% include "contact/partials/_table.html" %}
+    {% else %}
+        <div class="single-contact">
+            <h1 class="single-contact-name">
+            Nenhum contato encontrado.
+            </h1>
+        </div>
+    {% endif %}
+{% endblock content %}

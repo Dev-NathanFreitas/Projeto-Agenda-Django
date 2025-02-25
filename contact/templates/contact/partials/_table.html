@@ -1,0 +1,30 @@
+
+<div class="responsive-table">
+    <table class="contacts-table">
+        <caption class="table-caption">
+            Contacts
+        </caption>
+
+        <thead>
+            <tr class="table-row table-row-header">
+                <th class="table-header">ID</th>
+                <th class="table-header">First Name</th>
+                <th class="table-header">Lats Name</th>
+                <th class="table-header">Phone</th>
+                <th class="table-header">Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for contact  in page_obj  %}
+                <tr class="table-row">
+                    <td class="table-cel"><a href="{% url 'contact:contact' contact.id %}" class="table-link">{{contact.id}}</a></td>
+                    <td class="table-cel"><a href="#" class="table-link">{{contact.first_name}}</a></td>
+                    <td class="table-cel"><a href="#" class="table-link">{{contact.last_name}}</a></td>
+                    <td class="table-cel"><a href="#" class="table-link">{{contact.phone}}</a></td>
+                    <td class="table-cel"><a href="#" class="table-link">{{contact.email}}</a></td> 
+                </tr>
+                
+            {% endfor %}
+        </tbody>
+    </table>
+</div>

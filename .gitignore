@@ -4,7 +4,11 @@
 *.pyc
 __pycache__
 db.sqlite3
-
+static/
+media/
+#novo no gitignore
+project/local_settings.py
+comandos/SERVER.md
 # Backup files #
 *.bak
 
