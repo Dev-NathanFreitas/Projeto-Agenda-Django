@@ -1,6 +1,6 @@
 ## Projeto Agenda com Django
 
-![Image](https://github.com/user-attachments/assets/05977c40-1b99-4073-9423-ee7b1cc0d070)
+![Image](https://github.com/user-attachments/assets/27f3c6ac-ac44-4eeb-8066-a3d318192146)
 
 ### Ferramentas e Tecnologias utilizadas
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -14,10 +14,20 @@
 
 
 ### Sobre o programa
-<p>
-  Criei este software como um dos desafios propostos no curso da Udemy. 
-  Decidi aprimorar o código e adicionar diversas funcionalidades ao programa, 
-  visando otimizar o desempenho e expandir as capacidades. 
-  Ao longo desse desenvolvimento, adquiri novas habilidades em Python. 
-  O maior desafio foi implementar o algoritmo de busca, mas consegui superá-lo com sucesso."
-</p>
+<p>Este projeto é uma aplicação web de agenda pessoal desenvolvida em Django, que permite aos usuários gerenciar seus contatos de forma eficiente e segura.</p>
+
+#### Funcionalidades Principais
+  <br>
+  <p>Autenticação de Usuários:</p>
+  <ul>
+    <li> Sistema completo de login e registro de usuários, garantindo a segurança dos dados pessoais.  </li>
+    <li> Funcionalidade de atualização de perfil, permitindo aos usuários manterem suas informações atualizadas.  </li>
+  </ul>
+  <br>
+  <p>Gerenciamento de Contatos:</p>
+   <ul>
+    <li>Criação, edição e exclusão de contatos.   </li>
+    <li> Cada usuário tem acesso exclusivo aos seus próprios contatos, garantindo a privacidade e a organização individual.  </li>
+    <li> Apenas o usuário que criou o contato tem permissão para editar ou apagar o mesmo.  </li>
+  </ul>
+  
