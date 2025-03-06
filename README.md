@@ -4,8 +4,13 @@
 
 ### Ferramentas e Tecnologias utilizadas
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Html5](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=008000&labelColor=0D1117)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
+
+
 
 
 ### Sobre o programa
