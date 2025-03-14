@@ -4,7 +4,9 @@
 
 
 ### Meu Portfolio
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a2e6ab0a-d5c6-4e7b-b2f8-4d69f3d4acda/deploy-status)](https://app.netlify.com/sites/dev-nathan/deploys)
+<div align="left">  
+    <a href="https://dev-nathan.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-47ac61?style=for-the-badge&logo=portfolio&logoColor=white"</a>
+</div> 
 
 ### Ferramentas e Tecnologias utilizadas
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
